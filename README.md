@@ -44,6 +44,7 @@ minikube delete
 and upload our GitHub repository
 - We end the project successfuly after we have tested our code with CircleCI
 
+## A short explanation of our files in the repo
 
 - config.yml: CircleCI special file to test the code and get a passed-badge
 - app.py: main application, which calculates the predictions
